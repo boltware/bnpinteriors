@@ -1,0 +1,6 @@
+# Standard Robots.txt for BNP Interiors
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://www.bnpinteriors.com/sitemap.xml

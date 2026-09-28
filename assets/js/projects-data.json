@@ -1,0 +1,1180 @@
+{
+  "taj-palace": {
+    "id": "taj-palace",
+    "name": "Taj Palace",
+    "category": "hospitality",
+    "category_label": "Hospitality",
+    "location": "Lucknow, Uttar Pradesh",
+    "scope": "All Public Areas, Presidential Suites & Luxury Guest Rooms",
+    "images": [
+      "assets/images/portfolio/taj_palace_lucknow/img_20_1.jpeg",
+      "assets/images/portfolio/taj_palace_lucknow/img_20_2.jpeg",
+      "assets/images/portfolio/taj_palace_lucknow/img_20_3.jpeg",
+      "assets/images/portfolio/taj_palace_lucknow/img_20_4.jpeg",
+      "assets/images/portfolio/taj_palace_lucknow/img_20_6.jpeg",
+      "assets/images/portfolio/taj_palace_lucknow/img_20_7.jpeg",
+      "assets/images/portfolio/taj_palace_lucknow/img_20_8.jpeg",
+      "assets/images/portfolio/project_20.jpg"
+    ]
+  },
+  "taj-ayodhyam": {
+    "id": "taj-ayodhyam",
+    "name": "TAJ-IHCL SELEQTIONS AYODHYAM, AYODHYA",
+    "category": "hospitality",
+    "category_label": "Hospitality",
+    "location": "Ayodhya, Uttar Pradesh",
+    "scope": "All Public Areas & Luxury Guest Rooms",
+    "images": [
+      "assets/images/portfolio/taj_ayodhyam_ayodhya/img_21_3.jpeg",
+      "assets/images/portfolio/taj_ayodhyam_ayodhya/img_21_1.jpeg",
+      "assets/images/portfolio/taj_ayodhyam_ayodhya/img_21_2.jpeg",
+      "assets/images/portfolio/taj_ayodhyam_ayodhya/img_21_4.jpeg",
+      "assets/images/portfolio/taj_ayodhyam_ayodhya/img_21_5.jpeg",
+      "assets/images/portfolio/taj_ayodhyam_ayodhya/img_21_6.jpeg",
+      "assets/images/portfolio/taj_ayodhyam_ayodhya/img_21_7.jpeg",
+      "assets/images/portfolio/project_21.jpg"
+    ]
+  },
+  "taj-ganga-kutir": {
+    "id": "taj-ganga-kutir",
+    "name": "Taj Ganga Kutir",
+    "category": "hospitality",
+    "category_label": "Hospitality",
+    "location": "Raichak, West Bengal",
+    "scope": "All Public Areas, Specialty Restaurants, Presidential Suites, 150 Guest Rooms, 10 Luxury Villas & Lobbies",
+    "images": [
+      "assets/images/portfolio/taj_ganga_kutir_raichak_west_bengal/1_3.jpg",
+      "assets/images/portfolio/taj_ganga_kutir_raichak_west_bengal/1_1.jpg",
+      "assets/images/portfolio/project_22.jpg",
+      "assets/images/portfolio/project_23.jpg"
+    ]
+  },
+  "taj-puri-resort-spa": {
+    "id": "taj-puri-resort-spa",
+    "name": "Taj Puri Resort & Spa",
+    "category": "hospitality",
+    "category_label": "Hospitality",
+    "location": "Puri, Odisha",
+    "scope": "Guest Rooms, Deluxe Suites, Grand Ballroom, Specialty Restaurant, Spa, Fitness Center & Reception",
+    "images": [
+      "assets/images/portfolio/taj_puri_resort_spa/img_24_4.jpeg",
+      "assets/images/portfolio/taj_puri_resort_spa/img_24_1.jpeg",
+      "assets/images/portfolio/taj_puri_resort_spa/img_24_2.jpeg",
+      "assets/images/portfolio/taj_puri_resort_spa/img_24_3.jpeg",
+      "assets/images/portfolio/taj_puri_resort_spa/img_24_5.jpeg",
+      "assets/images/portfolio/taj_puri_resort_spa/img_25_1.jpeg",
+      "assets/images/portfolio/taj_puri_resort_spa/img_25_2.jpeg",
+      "assets/images/portfolio/taj_puri_resort_spa/img_25_3.jpeg",
+      "assets/images/portfolio/taj_puri_resort_spa/img_25_4.jpeg",
+      "assets/images/portfolio/taj_puri_resort_spa/img_25_5.jpeg",
+      "assets/images/portfolio/taj_puri_resort_spa/img_25_6.jpeg",
+      "assets/images/portfolio/taj_puri_resort_spa/img_25_7.jpeg",
+      "assets/images/portfolio/taj_puri_resort_spa/img_25_8.jpeg"
+    ]
+  },
+  "taj-gorbandh-palace": {
+    "id": "taj-gorbandh-palace",
+    "name": "Taj Gorbandh Palace",
+    "category": "hospitality",
+    "category_label": "Hospitality",
+    "location": "Jaisalmer, Rajasthan",
+    "scope": "Guest Rooms, Executive Suites, All-Day Dining, Library Bar Lounge, Specialty Restaurant, Spa & Gym",
+    "images": [
+      "assets/images/portfolio/taj_gorbandh_palace_jaisalmer_rajasthan/gorbandh_1__14.jpg",
+      "assets/images/portfolio/taj_gorbandh_palace_jaisalmer_rajasthan/gorbandh_1__1.jpg",
+      "assets/images/portfolio/taj_gorbandh_palace_jaisalmer_rajasthan/gorbandh_1__10.jpg",
+      "assets/images/portfolio/taj_gorbandh_palace_jaisalmer_rajasthan/gorbandh_1__11.jpg",
+      "assets/images/portfolio/taj_gorbandh_palace_jaisalmer_rajasthan/gorbandh_1__12.jpg",
+      "assets/images/portfolio/taj_gorbandh_palace_jaisalmer_rajasthan/gorbandh_1__13.jpg",
+      "assets/images/portfolio/taj_gorbandh_palace_jaisalmer_rajasthan/gorbandh_1__15.jpg",
+      "assets/images/portfolio/taj_gorbandh_palace_jaisalmer_rajasthan/gorbandh_1__16.jpg",
+      "assets/images/portfolio/taj_gorbandh_palace_jaisalmer_rajasthan/gorbandh_1__2.jpg",
+      "assets/images/portfolio/taj_gorbandh_palace_jaisalmer_rajasthan/gorbandh_1__3.jpg",
+      "assets/images/portfolio/taj_gorbandh_palace_jaisalmer_rajasthan/gorbandh_1__4.jpg",
+      "assets/images/portfolio/taj_gorbandh_palace_jaisalmer_rajasthan/gorbandh_1__5.jpg",
+      "assets/images/portfolio/taj_gorbandh_palace_jaisalmer_rajasthan/gorbandh_1__6.jpg",
+      "assets/images/portfolio/taj_gorbandh_palace_jaisalmer_rajasthan/gorbandh_1__7.jpg",
+      "assets/images/portfolio/taj_gorbandh_palace_jaisalmer_rajasthan/gorbandh_1__8.jpg",
+      "assets/images/portfolio/taj_gorbandh_palace_jaisalmer_rajasthan/gorbandh_1__9.jpg",
+      "assets/images/portfolio/project_26.jpg",
+      "assets/images/portfolio/project_27.jpg"
+    ]
+  },
+  "taj-amer": {
+    "id": "taj-amer",
+    "name": "Taj Amer",
+    "category": "hospitality",
+    "category_label": "Hospitality",
+    "location": "Jaipur, Rajasthan",
+    "scope": "173 King Rooms, 52 Twin Rooms, 19 Suites, Spa & Fitness Centre, Executive Club, Boardrooms & Grand Ballrooms",
+    "images": [
+      "assets/images/portfolio/taj_amer_jaipur_rajasthan/amer_1__2.jpg",
+      "assets/images/portfolio/taj_amer_jaipur_rajasthan/amer_1__1.jpg",
+      "assets/images/portfolio/taj_amer_jaipur_rajasthan/amer_1__3.jpg",
+      "assets/images/portfolio/project_28.jpg",
+      "assets/images/portfolio/project_29.jpg"
+    ]
+  },
+  "taj-the-trees": {
+    "id": "taj-the-trees",
+    "name": "Taj The Trees",
+    "category": "hospitality",
+    "category_label": "Hospitality",
+    "location": "Vikhroli, Mumbai, Maharashtra",
+    "scope": "Grand Ballrooms, Pre-Function Area, Reception Lobby, Circulation, Specialty Restaurant, Spa & Conference Facilities",
+    "images": [
+      "assets/images/portfolio/taj_the_trees_vikhroli_maharashtra/1_6.jpg",
+      "assets/images/portfolio/taj_the_trees_vikhroli_maharashtra/1_7.jpg",
+      "assets/images/portfolio/taj_the_trees_vikhroli_maharashtra/1_1.jpg",
+      "assets/images/portfolio/taj_the_trees_vikhroli_maharashtra/1_2.jpg",
+      "assets/images/portfolio/taj_the_trees_vikhroli_maharashtra/1_3.jpg",
+      "assets/images/portfolio/taj_the_trees_vikhroli_maharashtra/1_4.jpg",
+      "assets/images/portfolio/taj_the_trees_vikhroli_maharashtra/1_5.jpg",
+      "assets/images/portfolio/taj_the_trees_vikhroli_maharashtra/1_8.jpg",
+      "assets/images/portfolio/project_30.jpg",
+      "assets/images/portfolio/project_31.jpg"
+    ]
+  },
+  "the-chambers-taj-mahal-palace": {
+    "id": "the-chambers-taj-mahal-palace",
+    "name": "The Chambers, Taj Mahal Palace",
+    "category": "hospitality",
+    "category_label": "Hospitality",
+    "location": "Mumbai, Maharashtra",
+    "scope": "Bespoke Furniture, Executive Waiting Area, Elite Members' Lounges, Private Dining, Conference Suites & Lift Lobbies",
+    "images": [
+      "assets/images/portfolio/taj_chambers_taj_mahal_palace_mumbai_maharashtra/chamber_1__6.jpg",
+      "assets/images/portfolio/taj_chambers_taj_mahal_palace_mumbai_maharashtra/chamber_1__1.jpg",
+      "assets/images/portfolio/taj_chambers_taj_mahal_palace_mumbai_maharashtra/chamber_1__10.jpg",
+      "assets/images/portfolio/taj_chambers_taj_mahal_palace_mumbai_maharashtra/chamber_1__11.jpg",
+      "assets/images/portfolio/taj_chambers_taj_mahal_palace_mumbai_maharashtra/chamber_1__12.jpg",
+      "assets/images/portfolio/taj_chambers_taj_mahal_palace_mumbai_maharashtra/chamber_1__13.jpg",
+      "assets/images/portfolio/taj_chambers_taj_mahal_palace_mumbai_maharashtra/chamber_1__14.jpg",
+      "assets/images/portfolio/taj_chambers_taj_mahal_palace_mumbai_maharashtra/chamber_1__2.jpg",
+      "assets/images/portfolio/taj_chambers_taj_mahal_palace_mumbai_maharashtra/chamber_1__3.jpg",
+      "assets/images/portfolio/taj_chambers_taj_mahal_palace_mumbai_maharashtra/chamber_1__4.jpg",
+      "assets/images/portfolio/taj_chambers_taj_mahal_palace_mumbai_maharashtra/chamber_1__5.jpg",
+      "assets/images/portfolio/taj_chambers_taj_mahal_palace_mumbai_maharashtra/chamber_1__7.jpg",
+      "assets/images/portfolio/taj_chambers_taj_mahal_palace_mumbai_maharashtra/chamber_1__8.jpg",
+      "assets/images/portfolio/taj_chambers_taj_mahal_palace_mumbai_maharashtra/chamber_1__9.jpg",
+      "assets/images/portfolio/project_32.jpg",
+      "assets/images/portfolio/project_33.jpg",
+      "assets/images/portfolio/project_34.jpg"
+    ]
+  },
+  "seleqtions-by-taj-cidade-de-goa": {
+    "id": "seleqtions-by-taj-cidade-de-goa",
+    "name": "SeleQtions by Taj - Cidade de Goa",
+    "category": "hospitality",
+    "category_label": "Hospitality",
+    "location": "Goa",
+    "scope": "All Public Areas, Restaurants, Grand Ballroom, Pre-Function, BOH Areas & General Manager's Office",
+    "images": [
+      "assets/images/portfolio/taj_ciadade_de_goa/GOA_1__2.jpg",
+      "assets/images/portfolio/taj_ciadade_de_goa/GOA_1__1.jpg",
+      "assets/images/portfolio/taj_ciadade_de_goa/GOA_1__3.jpg",
+      "assets/images/portfolio/taj_ciadade_de_goa/GOA_1__4.jpg",
+      "assets/images/portfolio/project_35.jpg"
+    ]
+  },
+  "vivanta-by-taj": {
+    "id": "vivanta-by-taj",
+    "name": "Vivanta by Taj",
+    "category": "hospitality",
+    "category_label": "Hospitality",
+    "location": "Bhubaneswar, Odisha",
+    "scope": "136 Guest Rooms, Specialty Restaurants, Grand Ballroom, Pre-Function & Public Areas",
+    "images": [
+      "assets/images/portfolio/vivanta_bhubaneshwar_odisha/VIVANTA_1_4.jpg",
+      "assets/images/portfolio/vivanta_bhubaneshwar_odisha/VIVANTA_1_1.jpg",
+      "assets/images/portfolio/vivanta_bhubaneshwar_odisha/VIVANTA_1_2.jpg",
+      "assets/images/portfolio/vivanta_bhubaneshwar_odisha/VIVANTA_1_3.jpg",
+      "assets/images/portfolio/vivanta_bhubaneshwar_odisha/VIVANTA_1_5.jpg",
+      "assets/images/portfolio/vivanta_bhubaneshwar_odisha/VIVANTA_1_6.jpg",
+      "assets/images/portfolio/project_36.jpg"
+    ]
+  },
+  "fairfield-by-marriott": {
+    "id": "fairfield-by-marriott",
+    "name": "Fairfield by Marriott",
+    "category": "hospitality",
+    "category_label": "Hospitality",
+    "location": "Chennai, Tamil Nadu",
+    "scope": "158 Keys, Bar Area, All-Day Dining, Pool Area, Gym, Market & Conference Rooms (HICSA Hotel of the Year 2019 Award Winner)",
+    "images": [
+      "assets/images/portfolio/fairfield_chennai_tamil_nadu/FAIRFIELD_1__4.png",
+      "assets/images/portfolio/fairfield_chennai_tamil_nadu/FAIRFIELD_1__1.png",
+      "assets/images/portfolio/fairfield_chennai_tamil_nadu/FAIRFIELD_1__2.png",
+      "assets/images/portfolio/fairfield_chennai_tamil_nadu/FAIRFIELD_1__3.png",
+      "assets/images/portfolio/fairfield_chennai_tamil_nadu/FAIRFIELD_1__5.png",
+      "assets/images/portfolio/fairfield_chennai_tamil_nadu/FAIRFIELD_1__6.png",
+      "assets/images/portfolio/project_38.jpg"
+    ]
+  },
+  "radisson-hotel": {
+    "id": "radisson-hotel",
+    "name": "Radisson Hotel",
+    "category": "hospitality",
+    "category_label": "Hospitality",
+    "location": "Jamshedpur, Jharkhand",
+    "scope": "Guest Rooms, Premium Suites, Owner's Suite, Presidential Suites, Ballroom, Pre-Function & All-Day Dining",
+    "images": [
+      "assets/images/portfolio/radisson_jamhshedpur_jharkhand/1_3.jpg",
+      "assets/images/portfolio/radisson_jamhshedpur_jharkhand/1_1.jpg",
+      "assets/images/portfolio/radisson_jamhshedpur_jharkhand/1_2.jpg",
+      "assets/images/portfolio/radisson_jamhshedpur_jharkhand/1_4.jpg",
+      "assets/images/portfolio/radisson_jamhshedpur_jharkhand/1_5.jpg",
+      "assets/images/portfolio/radisson_jamhshedpur_jharkhand/1_6.jpg",
+      "assets/images/portfolio/radisson_jamhshedpur_jharkhand/1_7.jpg",
+      "assets/images/portfolio/project_37.jpg"
+    ]
+  },
+  "sheraton": {
+    "id": "sheraton",
+    "name": "Sheraton",
+    "category": "hospitality",
+    "category_label": "Hospitality",
+    "location": "Hyderabad, Telangana",
+    "scope": "152 Keys, Grand Lobby & All Common Circulation Areas",
+    "images": [
+      "assets/images/portfolio/sheraton_hyderabad_telangana/img_1__1.jpg",
+      "assets/images/portfolio/sheraton_hyderabad_telangana/img_1__2.jpg",
+      "assets/images/portfolio/sheraton_hyderabad_telangana/img_1__3.jpg",
+      "assets/images/portfolio/sheraton_hyderabad_telangana/img_1__4.jpg",
+      "assets/images/portfolio/project_39.jpg"
+    ]
+  },
+  "courtyard-by-marriott": {
+    "id": "courtyard-by-marriott",
+    "name": "Courtyard by Marriott",
+    "category": "hospitality",
+    "category_label": "Hospitality",
+    "location": "Ranchi, Jharkhand",
+    "scope": "Grand Lobby, Reception, Deluxe Guest Rooms & Public Circulation Spaces",
+    "images": [
+      "assets/images/portfolio/courtyard_by_marriot_ranchi_jharkhand/COURTYARD_1_3.jpg",
+      "assets/images/portfolio/courtyard_by_marriot_ranchi_jharkhand/COURTYARD_1_1.jpg",
+      "assets/images/portfolio/courtyard_by_marriot_ranchi_jharkhand/COURTYARD_1_2.jpg",
+      "assets/images/portfolio/courtyard_by_marriot_ranchi_jharkhand/COURTYARD_1_4.jpg",
+      "assets/images/portfolio/courtyard_by_marriot_ranchi_jharkhand/COURTYARD_1_5.jpg",
+      "assets/images/portfolio/courtyard_by_marriot_ranchi_jharkhand/COURTYARD_1_6.jpg",
+      "assets/images/portfolio/project_40.jpg"
+    ]
+  },
+  "hyatt-regency": {
+    "id": "hyatt-regency",
+    "name": "Hyatt Regency",
+    "category": "hospitality",
+    "category_label": "Hospitality",
+    "location": "Pune, Maharashtra",
+    "scope": "Grand Lobby, Reception, Banquet Area, Bar, Specialty Restaurant & Common Areas",
+    "images": [
+      "assets/images/portfolio/hyatt_regency_pune_maharashtra/HYATT_REGENCY_1__2.png",
+      "assets/images/portfolio/hyatt_regency_pune_maharashtra/HYATT_REGENCY_1__1.png",
+      "assets/images/portfolio/hyatt_regency_pune_maharashtra/HYATT_REGENCY_1__3.png",
+      "assets/images/portfolio/hyatt_regency_pune_maharashtra/HYATT_REGENCY_1__4.png",
+      "assets/images/portfolio/hyatt_regency_pune_maharashtra/HYATT_REGENCY_1__5.png",
+      "assets/images/portfolio/project_42.jpg",
+      "assets/images/portfolio/project_43.jpg"
+    ]
+  },
+  "hyatt-place": {
+    "id": "hyatt-place",
+    "name": "Hyatt Place",
+    "category": "hospitality",
+    "category_label": "Hospitality",
+    "location": "Gurugram, Haryana",
+    "scope": "156 Keys, Waiting Area, All-Day Dining & Conference Rooms",
+    "images": [
+      "assets/images/portfolio/hyatt_place_gurugram_haryana/HYATT_PLACE_1__1.png",
+      "assets/images/portfolio/hyatt_place_gurugram_haryana/HYATT_PLACE_1__2.png",
+      "assets/images/portfolio/hyatt_place_gurugram_haryana/HYATT_PLACE_1__3.png",
+      "assets/images/portfolio/hyatt_place_gurugram_haryana/HYATT_PLACE_1__4.png",
+      "assets/images/portfolio/hyatt_place_gurugram_haryana/HYATT_PLACE_1__5.png",
+      "assets/images/portfolio/project_44.jpg"
+    ]
+  },
+  "novotel-hotel-suites-resort": {
+    "id": "novotel-hotel-suites-resort",
+    "name": "Novotel Hotel, Suites & Resort",
+    "category": "hospitality",
+    "category_label": "Hospitality",
+    "location": "Pune, Maharashtra",
+    "scope": "300 Keys, All-Day Dining, Specialty Restaurant & Common Areas",
+    "images": [
+      "assets/images/portfolio/novotal_hotel_suites_and_resort_pune_maharashtra/NOVOTAL_1__1.png",
+      "assets/images/portfolio/novotal_hotel_suites_and_resort_pune_maharashtra/NOVOTAL_1__2.png",
+      "assets/images/portfolio/novotal_hotel_suites_and_resort_pune_maharashtra/NOVOTAL_1__3.png",
+      "assets/images/portfolio/project_45.jpg"
+    ]
+  },
+  "icici-bank-offices": {
+    "id": "icici-bank-offices",
+    "name": "ICICI Bank",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Mumbai, Maharashtra",
+    "scope": "Corporate Headquarters Fit-Out & Retail Banking Branches",
+    "images": [
+      "assets/images/portfolio/icici/1_(1).jpg",
+      "assets/images/portfolio/icici/1_(2).jpg",
+      "assets/images/portfolio/icici/1_(3).jpg",
+      "assets/images/portfolio/icici/1_(4).jpg"
+    ]
+  },
+  "citibank-corporate-offices": {
+    "id": "citibank-corporate-offices",
+    "name": "Citi Bank",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "PAN India (Pune, Gurgaon, Bangalore, Delhi, Chandigarh, Mumbai)",
+    "scope": "10,00,000 sq.ft Financial Corporate Spaces & Banking Headquarters",
+    "images": [
+      "assets/images/portfolio/citi_bank/1_(1).jpg",
+      "assets/images/portfolio/citi_bank/1_(2).jpg",
+      "assets/images/portfolio/citi_bank/1_(3).jpg"
+    ]
+  },
+  "bnp-paribas-headquarters": {
+    "id": "bnp-paribas-headquarters",
+    "name": "BNP Paribas",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "PAN India (Mumbai, Chennai, Kolkata, Delhi, Ahmedabad)",
+    "scope": "15,00,000 sq.ft Global Financial Banking Headquarters",
+    "images": [
+      "assets/images/portfolio/bnp_paribas/1_(1).jpg",
+      "assets/images/portfolio/bnp_paribas/1_(2).jpg",
+      "assets/images/portfolio/bnp_paribas/1_(3).jpg",
+      "assets/images/portfolio/bnp_paribas/1_(4).jpg"
+    ]
+  },
+  "deutsche-bank-offices": {
+    "id": "deutsche-bank-offices",
+    "name": "Deutsche Bank",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "PAN India (Mumbai, Pune)",
+    "scope": "4,50,000 sq.ft Financial Corporate Offices & Trading Floors",
+    "images": [
+      "assets/images/portfolio/deutsche_bank/1_(1).jpg",
+      "assets/images/portfolio/deutsche_bank/1_(2).jpg",
+      "assets/images/portfolio/deutsche_bank/1_(3).jpg",
+      "assets/images/portfolio/deutsche_bank/1_(4).jpg"
+    ]
+  },
+  "pwc-offices": {
+    "id": "pwc-offices",
+    "name": "PwC (PricewaterhouseCoopers)",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "PAN India (Hyderabad, Mumbai, Kolkata, Gujarat)",
+    "scope": "10,00,000 sq.ft Professional Services Corporate Offices",
+    "images": [
+      "assets/images/portfolio/pwc/1_(1).jpg",
+      "assets/images/portfolio/pwc/1_(2).jpg",
+      "assets/images/portfolio/pwc/1_(3).jpg",
+      "assets/images/portfolio/pwc/1_(4).jpg"
+    ]
+  },
+  "concentrix": {
+    "id": "concentrix",
+    "name": "Concentrix",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Mumbai, Maharashtra",
+    "scope": "Turnkey Corporate Headquarters & Global Operations Center",
+    "images": [
+      "assets/images/portfolio/concentrix/1_(1).jpg",
+      "assets/images/portfolio/concentrix/1_(2).jpg",
+      "assets/images/portfolio/concentrix/1_(3).jpg"
+    ]
+  },
+  "t-systems": {
+    "id": "t-systems",
+    "name": "T-Systems",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Pune, Maharashtra",
+    "scope": "3,00,000 sq.ft Enterprise Technology Campus",
+    "images": [
+      "assets/images/portfolio/t_systems/1_(1).jpg",
+      "assets/images/portfolio/t_systems/1_(2).jpg"
+    ]
+  },
+  "red-hat": {
+    "id": "red-hat",
+    "name": "Red Hat",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Pune, Maharashtra",
+    "scope": "2,00,000 sq.ft Tech Enterprise Headquarters",
+    "images": [
+      "assets/images/portfolio/red_hat/1_(1).jpg",
+      "assets/images/portfolio/red_hat/1_(2).jpg",
+      "assets/images/portfolio/red_hat/1_(3).jpg",
+      "assets/images/portfolio/red_hat/1_(4).jpg"
+    ]
+  },
+  "workday": {
+    "id": "workday",
+    "name": "Workday",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Pune, Maharashtra",
+    "scope": "1,50,000 sq.ft Cloud Enterprise Headquarters",
+    "images": [
+      "assets/images/portfolio/workday/1(5).jpg",
+      "assets/images/portfolio/workday/1_(1).jpg",
+      "assets/images/portfolio/workday/1_(2).jpg",
+      "assets/images/portfolio/workday/1_(3).jpg",
+      "assets/images/portfolio/workday/1_(4).jpg"
+    ]
+  },
+  "nvidia": {
+    "id": "nvidia",
+    "name": "NVIDIA",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Pune, Maharashtra",
+    "scope": "3,00,000 sq.ft AI Technology & R&D Campus",
+    "images": [
+      "assets/images/portfolio/nvidia/chatgpt_image_may_16,_2026,_04_17_09_pm.png",
+      "assets/images/portfolio/nvidia/chatgpt_image_may_16,_2026,_04_25_29_pm.png",
+      "assets/images/portfolio/nvidia/chatgpt_image_may_16,_2026,_04_26_36_pm.png"
+    ]
+  },
+  "ust-global-kerala-regional-hq": {
+    "id": "ust-global-kerala-regional-hq",
+    "name": "UST Global",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Kerala",
+    "scope": "13,00,000 sq.ft Regional Headquarters Mega Campus",
+    "images": [
+      "assets/images/portfolio/ust_global/1_(1).jpg",
+      "assets/images/portfolio/ust_global/1_(2).jpg",
+      "assets/images/portfolio/ust_global/1_(3).jpg"
+    ]
+  },
+  "ey-kerala": {
+    "id": "ey-kerala",
+    "name": "EY (Ernst & Young)",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Kerala",
+    "scope": "2,00,000 sq.ft Regional Headquarters",
+    "images": [
+      "assets/images/portfolio/ey/1_(1).jpg",
+      "assets/images/portfolio/ey/1_(2).jpg",
+      "assets/images/portfolio/ey/1_(3).jpg"
+    ]
+  },
+  "tecpro-systems": {
+    "id": "tecpro-systems",
+    "name": "Tecpro Systems Ltd",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Kolkata, West Bengal",
+    "scope": "1,00,000 sq.ft Engineering & Industrial Headquarters",
+    "images": [
+      "assets/images/portfolio/tecpro_systems_ltd/1_(1).jpg",
+      "assets/images/portfolio/tecpro_systems_ltd/1_(2).jpg",
+      "assets/images/portfolio/tecpro_systems_ltd/1_(3).jpg"
+    ]
+  },
+  "dainik-bhaskar": {
+    "id": "dainik-bhaskar",
+    "name": "Dainik Bhaskar",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Bhopal, Madhya Pradesh & Noida, Uttar Pradesh",
+    "scope": "1,00,000 sq.ft Media & News Corporate Headquarters",
+    "images": [
+      "assets/images/portfolio/dainik_baskar/1_(1).jpg",
+      "assets/images/portfolio/dainik_baskar/1_(2).jpg",
+      "assets/images/portfolio/dainik_baskar/1_(3).jpg"
+    ]
+  },
+  "zee-media": {
+    "id": "zee-media",
+    "name": "Zee Media",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Mumbai, Maharashtra",
+    "scope": "2,50,000 sq.ft Broadcast & Media Corporate Headquarters",
+    "images": [
+      "assets/images/portfolio/zee_media/1_(1).jpg",
+      "assets/images/portfolio/zee_media/1_(2).jpg",
+      "assets/images/portfolio/zee_media/1_(3).jpg",
+      "assets/images/portfolio/zee_media/1_(4).jpg"
+    ]
+  },
+  "db-mall": {
+    "id": "db-mall",
+    "name": "DB City Mall",
+    "category": "malls-retail",
+    "category_label": "Malls & Retail",
+    "location": "Bhopal, Madhya Pradesh",
+    "scope": "15,00,000 sq.ft Mega Retail & Shopping Complex",
+    "images": [
+      "assets/images/portfolio/db_city_mall/db_city_mall_1.jpg",
+      "assets/images/portfolio/db_city_mall/db_city_mall_2.jpg",
+      "assets/images/portfolio/db_city_mall/db_city_mall_3.jpg",
+      "assets/images/portfolio/db_city_mall/db_city_mall_4.jpg",
+      "assets/images/portfolio/db_city_mall/db_city_mall_5.jpg",
+      "assets/images/portfolio/db_city_mall/db_city_mall_6.jpg",
+      "assets/images/portfolio/db_city_mall/db_city_mall_7.jpg",
+      "assets/images/portfolio/db_city_mall/db_city_mall_8.jpg"
+    ]
+  },
+  "nucleus-mall": {
+    "id": "nucleus-mall",
+    "name": "Nucleus Mall",
+    "category": "malls-retail",
+    "category_label": "Malls & Retail",
+    "location": "Ranchi, Jharkhand",
+    "scope": "8,00,000 sq.ft Prime Shopping Center & Commercial Hub",
+    "images": [
+      "assets/images/portfolio/nucleus_mall/nucleas_1.png",
+      "assets/images/portfolio/nucleus_mall/nucleas_2.png",
+      "assets/images/portfolio/nucleus_mall/nucleas_3.png",
+      "assets/images/portfolio/nucleus_mall/nucleas_4.png"
+    ]
+  },
+  "shoppers-stop": {
+    "id": "shoppers-stop",
+    "name": "Shoppers Stop",
+    "category": "malls-retail",
+    "category_label": "Malls & Retail",
+    "location": "PAN India (40 Outlets)",
+    "scope": "20,00,000 sq.ft Retail Outlets Across 40 Malls Nationwide",
+    "images": [
+      "assets/images/portfolio/shoppers_stop/img_80_1.jpeg",
+      "assets/images/portfolio/shoppers_stop/img_80_2.jpeg",
+      "assets/images/portfolio/shoppers_stop/img_80_3.jpeg",
+      "assets/images/portfolio/shoppers_stop/img_80_4.jpeg",
+      "assets/images/portfolio/shoppers_stop/img_80_5.jpeg",
+      "assets/images/portfolio/shoppers_stop/img_81_1.jpeg",
+      "assets/images/portfolio/shoppers_stop/img_81_2.jpeg",
+      "assets/images/portfolio/shoppers_stop/img_81_3.jpeg",
+      "assets/images/portfolio/shoppers_stop/img_81_4.jpeg",
+      "assets/images/portfolio/shoppers_stop/img_81_5.jpeg",
+      "assets/images/portfolio/shoppers_stop/shopper_stop1.jpg",
+      "assets/images/portfolio/shoppers_stop/shopper_stop_4.jpg",
+      "assets/images/portfolio/shoppers_stop/shopperstop2.jpg",
+      "assets/images/portfolio/shoppers_stop/shopperstop_3.jpg"
+    ]
+  },
+  "vegas-mall": {
+    "id": "vegas-mall",
+    "name": "Vegas Mall",
+    "category": "malls-retail",
+    "category_label": "Malls & Retail",
+    "location": "Delhi NCR",
+    "scope": "6,00,000 sq.ft Destination Retail & Entertainment Mall",
+    "images": [
+      "assets/images/portfolio/vegas_mall/vegas.jpg",
+      "assets/images/portfolio/vegas_mall/vegas_1.jpg",
+      "assets/images/portfolio/vegas_mall/vegas_2.jpg",
+      "assets/images/portfolio/vegas_mall/vegas_3.jpg"
+    ]
+  },
+  "amrita-hospitals-aims": {
+    "id": "amrita-hospitals-aims",
+    "name": "Amrita Hospitals (AIMS)",
+    "category": "healthcare-education",
+    "category_label": "Healthcare & Educational",
+    "location": "Faridabad, Delhi NCR",
+    "scope": "9,00,000 sq.ft (100 Cr Order) \u00b7 Civil & Interiors: Flooring, PCC, Plaster & POP, Ceiling Finishes, Dry Wall Partitions, Doors, Wall Panelling, Bespoke Furniture (302 ICUs, 4 OTs, 158 Patient Rooms, 4 Floors)",
+    "images": [
+      "assets/images/portfolio/amrita_hospitals_faridabad/img_77_1.jpeg"
+    ]
+  },
+  "dhirubhai-ambani-international-school": {
+    "id": "dhirubhai-ambani-international-school",
+    "name": "Dhirubhai Ambani International School",
+    "category": "healthcare-education",
+    "category_label": "Healthcare & Educational",
+    "location": "BKC, Mumbai, Maharashtra",
+    "scope": "Turnkey Educational Infrastructure, World-Class Learning Auditoriums & Campus Interiors",
+    "images": [
+      "assets/images/portfolio/dhirubhai_ambani_school/img_76_1.jpeg",
+      "assets/images/portfolio/dhirubhai_ambani_school/img_76_2.jpeg",
+      "assets/images/portfolio/dhirubhai_ambani_school/img_76_3.jpeg"
+    ]
+  },
+  "piramal-clubhouse": {
+    "id": "piramal-clubhouse",
+    "name": "Piramal Clubhouse",
+    "category": "restaurants",
+    "category_label": "Restaurants",
+    "location": "Mumbai, Maharashtra",
+    "scope": "Ultra-Luxury Private Clubhouse, Reception, Multi-Purpose Recreational & Dining Lounges",
+    "images": [
+      "assets/images/portfolio/piramal_clubhouse_mumbai_maharsthra/img_2.png",
+      "assets/images/portfolio/piramal_clubhouse_mumbai_maharsthra/img_1.png",
+      "assets/images/portfolio/piramal_clubhouse_mumbai_maharsthra/img_3.png",
+      "assets/images/portfolio/piramal_clubhouse_mumbai_maharsthra/img_4.png",
+      "assets/images/portfolio/piramal_clubhouse_mumbai_maharsthra/img_5.png",
+      "assets/images/portfolio/piramal_clubhouse_mumbai_maharsthra/img_6.png",
+      "assets/images/portfolio/piramal_clubhouse_mumbai_maharsthra/img_7.png",
+      "assets/images/portfolio/piramal_clubhouse_mumbai_maharsthra/img_8.png",
+      "assets/images/portfolio/piramal_clubhouse_mumbai_maharsthra/img_9_1.png",
+      "assets/images/portfolio/piramal_clubhouse_mumbai_maharsthra/img_9_2.png"
+    ]
+  },
+  "indian-accent": {
+    "id": "indian-accent",
+    "name": "Indian Accent, NMACC",
+    "category": "restaurants",
+    "category_label": "Restaurants",
+    "location": "BKC, Mumbai, Maharashtra",
+    "scope": "Bespoke Luxury Fine Dining Fit-Out at Nita Mukesh Ambani Cultural Centre",
+    "images": [
+      "assets/images/portfolio/indian_accent_nmacc_bkc_mumbai_maharashtra/INDIAN_ACCENT_1_1.jpg",
+      "assets/images/portfolio/indian_accent_nmacc_bkc_mumbai_maharashtra/INDIAN_ACCENT_1_2.jpg",
+      "assets/images/portfolio/indian_accent_nmacc_bkc_mumbai_maharashtra/INDIAN_ACCENT_1_3.jpg",
+      "assets/images/portfolio/indian_accent_nmacc_bkc_mumbai_maharashtra/INDIAN_ACCENT_1_4.jpg",
+      "assets/images/portfolio/indian_accent_nmacc_bkc_mumbai_maharashtra/INDIAN_ACCENT_1_5.jpg"
+    ]
+  },
+  "quorum-club": {
+    "id": "quorum-club",
+    "name": "Quorum Club",
+    "category": "restaurants",
+    "category_label": "Restaurants",
+    "location": "Hyderabad, Telangana",
+    "scope": "Exclusive Members-Only Club & Executive Suites",
+    "images": [
+      "assets/images/portfolio/quorum_club/quorum_club_1.jpg",
+      "assets/images/portfolio/quorum_club/quorum_club_2.jpg",
+      "assets/images/portfolio/quorum_club/quorum_club_3.jpg",
+      "assets/images/portfolio/quorum_club/quorum_club_4.jpg"
+    ]
+  },
+  "district-150": {
+    "id": "district-150",
+    "name": "District 150",
+    "category": "restaurants",
+    "category_label": "Restaurants",
+    "location": "Hyderabad, Telangana",
+    "scope": "Hospitality-Powered Cultural & Lifestyle Workspaces",
+    "images": [
+      "assets/images/portfolio/district_150/district_150_1.jpg",
+      "assets/images/portfolio/district_150/district_150_2.jpg",
+      "assets/images/portfolio/district_150/district_150_3.jpg",
+      "assets/images/portfolio/district_150/district_150_4.jpg"
+    ]
+  },
+  "celebrity-cricketer-home": {
+    "id": "celebrity-cricketer-home",
+    "name": "Celebrity Cricketer Residence",
+    "category": "luxury-residences",
+    "category_label": "Luxury Residences",
+    "location": "Mumbai, Maharashtra",
+    "scope": "45,000 sq.ft per floor Multi-Storey Private Luxury Residence",
+    "images": [
+      "assets/images/portfolio/celebrity_cricketer_home/img_83_1.jpeg",
+      "assets/images/portfolio/celebrity_cricketer_home/img_83_2.jpeg",
+      "assets/images/portfolio/celebrity_cricketer_home/img_83_3.jpeg",
+      "assets/images/portfolio/celebrity_cricketer_home/img_83_4.jpeg",
+      "assets/images/portfolio/celebrity_cricketer_home/img_83_5.jpeg",
+      "assets/images/portfolio/celebrity_cricketer_home/img_83_6.jpeg"
+    ]
+  },
+  "md-of-the-publishing-house": {
+    "id": "md-of-the-publishing-house",
+    "name": "Publishing House MD Bungalow",
+    "category": "luxury-residences",
+    "category_label": "Luxury Residences",
+    "location": "New Delhi",
+    "scope": "15,000 sq.ft per floor Multi-Storey Private Estate Bungalow",
+    "images": [
+      "assets/images/portfolio/md_publishing_house/img_84_1.jpeg",
+      "assets/images/portfolio/md_publishing_house/img_84_2.jpeg",
+      "assets/images/portfolio/md_publishing_house/img_84_3.jpeg",
+      "assets/images/portfolio/md_publishing_house/img_84_4.jpeg",
+      "assets/images/portfolio/md_publishing_house/img_84_5.jpeg",
+      "assets/images/portfolio/md_publishing_house/img_84_6.jpeg",
+      "assets/images/portfolio/md_publishing_house/img_84_7.jpeg",
+      "assets/images/portfolio/md_publishing_house/img_85_1.jpeg",
+      "assets/images/portfolio/md_publishing_house/img_85_2.jpeg",
+      "assets/images/portfolio/md_publishing_house/img_85_3.jpeg",
+      "assets/images/portfolio/md_publishing_house/img_85_4.jpeg",
+      "assets/images/portfolio/md_publishing_house/img_85_5.jpeg",
+      "assets/images/portfolio/md_publishing_house/img_85_6.jpeg"
+    ]
+  },
+  "marriott-hotel": {
+    "id": "marriott-hotel",
+    "name": "Marriott Hotel",
+    "category": "hospitality",
+    "category_label": "Hospitality",
+    "location": "Bangalore, Karnataka",
+    "scope": "330 Keys, Lobby, Corridors & Common Circulation Areas",
+    "images": [
+      "assets/images/portfolio/marriott_hotel_bangalore/img_41_3.jpeg",
+      "assets/images/portfolio/marriott_hotel_bangalore/img_41_1.jpeg",
+      "assets/images/portfolio/marriott_hotel_bangalore/img_41_2.jpeg",
+      "assets/images/portfolio/project_41.jpg"
+    ]
+  },
+  "r-city-mall": {
+    "id": "r-city-mall",
+    "name": "R City Mall",
+    "category": "malls-retail",
+    "category_label": "Malls & Retail",
+    "location": "Mumbai, Maharashtra",
+    "scope": "2,50,000 sq.ft Turnkey Retail Mall Fit-Out, Skylit Atrium & Public Promenade",
+    "images": [
+      "assets/images/portfolio/r_city_mall/r_city_mall_cover.jpg",
+      "assets/images/portfolio/r_city_mall/r_city_mall_1.jpg",
+      "assets/images/portfolio/r_city_mall/r_city_mall_3.jpg",
+      "assets/images/portfolio/r_city_mall/r_city_mall_4.jpg"
+    ]
+  },
+  "hdfc-bank-turbhe": {
+    "id": "hdfc-bank-turbhe",
+    "name": "HDFC Bank \u2013 Turbhe",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Turbhe, Navi Mumbai, Maharashtra",
+    "scope": "Turnkey Corporate Office Fit-Out & Executive Workstations",
+    "images": [
+      "assets/images/portfolio/hdfc_turbhe/hdfc_turbhe_1.jpg",
+      "assets/images/portfolio/hdfc_turbhe/hdfc_turbhe_2.jpg",
+      "assets/images/portfolio/hdfc_turbhe/hdfc_turbhe_3.jpg",
+      "assets/images/portfolio/hdfc_turbhe/hdfc_turbhe_4.jpg",
+      "assets/images/portfolio/hdfc_turbhe/hdfc_turbhe_5.jpg",
+      "assets/images/portfolio/hdfc_turbhe/hdfc_turbhe_6.jpg"
+    ]
+  },
+  "hdfc-bank-airoli-asa": {
+    "id": "hdfc-bank-airoli-asa",
+    "name": "HDFC Bank \u2013 Airoli (ASA)",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Airoli, Navi Mumbai, Maharashtra",
+    "scope": "Corporate Office Architecture & Interior Fit-Out",
+    "images": [
+      "assets/images/portfolio/hdfc_airoli/hdfc_airoli_1.jpg",
+      "assets/images/portfolio/hdfc_airoli/hdfc_airoli_2.jpg",
+      "assets/images/portfolio/hdfc_airoli/hdfc_airoli_3.jpg",
+      "assets/images/portfolio/hdfc_airoli/hdfc_airoli_4.jpg",
+      "assets/images/portfolio/hdfc_airoli/hdfc_airoli_5.jpg",
+      "assets/images/portfolio/hdfc_airoli/hdfc_airoli_6.jpg",
+      "assets/images/portfolio/hdfc_airoli/hdfc_airoli_7.jpg",
+      "assets/images/portfolio/hdfc_airoli/hdfc_airoli_8.jpg"
+    ]
+  },
+  "hdfc-bank-vikhroli": {
+    "id": "hdfc-bank-vikhroli",
+    "name": "HDFC Bank \u2013 Vikhroli",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Vikhroli, Mumbai, Maharashtra",
+    "scope": "Regional Financial Corporate Headquarters",
+    "images": [
+      "assets/images/portfolio/hdfc_vikhroli/hdfc_vikhroli_1.jpg",
+      "assets/images/portfolio/hdfc_vikhroli/hdfc_vikhroli_2.jpg",
+      "assets/images/portfolio/hdfc_vikhroli/hdfc_vikhroli_3.jpg",
+      "assets/images/portfolio/hdfc_vikhroli/hdfc_vikhroli_4.jpg",
+      "assets/images/portfolio/hdfc_vikhroli/hdfc_vikhroli_5.jpg",
+      "assets/images/portfolio/hdfc_vikhroli/hdfc_vikhroli_6.jpg",
+      "assets/images/portfolio/hdfc_vikhroli/hdfc_vikhroli_7.jpg",
+      "assets/images/portfolio/hdfc_vikhroli/hdfc_vikhroli_8.jpg"
+    ]
+  },
+  "hdfc-bank-bhubaneshwar": {
+    "id": "hdfc-bank-bhubaneshwar",
+    "name": "HDFC Bank \u2013 Bhubaneswar",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Bhubaneswar, Odisha",
+    "scope": "State Regional Banking Headquarters & Offices",
+    "images": [
+      "assets/images/portfolio/hdfc_bhubaneswar/hdfc_bhubaneswar_1.jpg",
+      "assets/images/portfolio/hdfc_bhubaneswar/hdfc_bhubaneswar_2.jpg",
+      "assets/images/portfolio/hdfc_bhubaneswar/hdfc_bhubaneswar_3.jpg",
+      "assets/images/portfolio/hdfc_bhubaneswar/hdfc_bhubaneswar_4.jpg",
+      "assets/images/portfolio/hdfc_bhubaneswar/hdfc_bhubaneswar_5.jpg",
+      "assets/images/portfolio/hdfc_bhubaneswar/hdfc_bhubaneswar_6.jpg",
+      "assets/images/portfolio/hdfc_bhubaneswar/hdfc_bhubaneswar_7.jpg",
+      "assets/images/portfolio/hdfc_bhubaneswar/hdfc_bhubaneswar_8.jpg"
+    ]
+  },
+  "hdfc-bank-palava": {
+    "id": "hdfc-bank-palava",
+    "name": "HDFC Bank \u2013 Palava Training Centre",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Palava City, Maharashtra",
+    "scope": "1,50,000 sq.ft Residential Corporate Training Academy",
+    "images": [
+      "assets/images/portfolio/hdfc_palava/hdfc_palava_1.jpg",
+      "assets/images/portfolio/hdfc_palava/hdfc_palava_2.jpg",
+      "assets/images/portfolio/hdfc_palava/hdfc_palava_3.jpg",
+      "assets/images/portfolio/hdfc_palava/hdfc_palava_4.jpg",
+      "assets/images/portfolio/hdfc_palava/hdfc_palava_5.jpg",
+      "assets/images/portfolio/hdfc_palava/hdfc_palava_6.jpg",
+      "assets/images/portfolio/hdfc_palava/hdfc_palava_7.jpg",
+      "assets/images/portfolio/hdfc_palava/hdfc_palava_8.jpg"
+    ]
+  },
+  "hdfc-bank-corporate": {
+    "id": "hdfc-bank-corporate",
+    "name": "HDFC Bank \u2013 Regional Offices",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Pan-India (Nagpur, Kolkata, Chennai, Bangalore, Surat, Jaipur)",
+    "scope": "35,00,000 sq.ft Pan-India Corporate & Retail Banking Network",
+    "images": [
+      "assets/images/portfolio/hdfc_bank_offices/img_61_3.jpeg",
+      "assets/images/portfolio/hdfc_bank_offices/img_61_4.jpeg",
+      "assets/images/portfolio/hdfc_bank_offices/img_61_5.jpeg"
+    ]
+  },
+  "motilal-oswal-tower": {
+    "id": "motilal-oswal-tower",
+    "name": "Motilal Oswal Tower",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Ahmedabad, Gujarat",
+    "scope": "9,50,000 sq.ft Regional Headquarters Tower",
+    "images": [
+      "assets/images/portfolio/motilal_oswal_ahmedabad/motilal_oswal_ahmedabad_1.jpg",
+      "assets/images/portfolio/motilal_oswal_ahmedabad/motilal_oswal_ahmedabad_2.jpg",
+      "assets/images/portfolio/motilal_oswal_ahmedabad/motilal_oswal_ahmedabad_3.jpg",
+      "assets/images/portfolio/motilal_oswal_ahmedabad/motilal_oswal_ahmedabad_4.jpg",
+      "assets/images/portfolio/motilal_oswal_ahmedabad/motilal_oswal_ahmedabad_5.jpg",
+      "assets/images/portfolio/motilal_oswal_ahmedabad/motilal_oswal_ahmedabad_6.jpg",
+      "assets/images/portfolio/motilal_oswal_ahmedabad/motilal_oswal_ahmedabad_7.jpg",
+      "assets/images/portfolio/motilal_oswal_ahmedabad/motilal_oswal_ahmedabad_8.jpg"
+    ]
+  },
+  "motilal-oswal-corporate-hq": {
+    "id": "motilal-oswal-corporate-hq",
+    "name": "Motilal Oswal Corporate HQ",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Mumbai, Maharashtra",
+    "scope": "75,000 sq.ft Financial Services Corporate Headquarters",
+    "images": [
+      "assets/images/portfolio/motilal_oswal/ahm_1__(1).png",
+      "assets/images/portfolio/motilal_oswal/ahm_1__(2).png"
+    ]
+  },
+  "db-noida": {
+    "id": "db-noida",
+    "name": "DB Noida",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Noida, Uttar Pradesh",
+    "scope": "Corporate Headquarters & Media Fit-Out",
+    "images": [
+      "assets/images/portfolio/db_noida/db_noida_1.jpg",
+      "assets/images/portfolio/db_noida/db_noida_2.jpg",
+      "assets/images/portfolio/db_noida/db_noida_3.jpg",
+      "assets/images/portfolio/db_noida/db_noida_4.jpg",
+      "assets/images/portfolio/db_noida/db_noida_5.jpg",
+      "assets/images/portfolio/db_noida/db_noida_6.jpg",
+      "assets/images/portfolio/db_noida/db_noida_7.jpg",
+      "assets/images/portfolio/db_noida/db_noida_8.jpg"
+    ]
+  },
+  "elegante-mall-nsp": {
+    "id": "elegante-mall-nsp",
+    "name": "Elegante Mall (NSP)",
+    "category": "malls-retail",
+    "category_label": "Malls & Retail",
+    "location": "Netaji Subhash Place, Delhi",
+    "scope": "Modern Retail Shopping Mall Fit-Out & Atrium",
+    "images": [
+      "assets/images/portfolio/elegante_mall_nsp/elegante_mall_nsp_1.jpg",
+      "assets/images/portfolio/elegante_mall_nsp/elegante_mall_nsp_2.jpg",
+      "assets/images/portfolio/elegante_mall_nsp/elegante_mall_nsp_3.jpg",
+      "assets/images/portfolio/elegante_mall_nsp/elegante_mall_nsp_4.jpg",
+      "assets/images/portfolio/elegante_mall_nsp/elegante_mall_nsp_5.jpg",
+      "assets/images/portfolio/elegante_mall_nsp/elegante_mall_nsp_6.jpg",
+      "assets/images/portfolio/elegante_mall_nsp/elegante_mall_nsp_7.jpg",
+      "assets/images/portfolio/elegante_mall_nsp/elegante_mall_nsp_8.jpg"
+    ]
+  },
+  "citibank-eon-6c": {
+    "id": "citibank-eon-6c",
+    "name": "Citibank Eon 6C",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Eon Free Zone 6C, Kharadi, Pune",
+    "scope": "Global Technology & Operations Campus",
+    "images": [
+      "assets/images/portfolio/citibank_eon_6c/citibank_eon_6c_1.jpg",
+      "assets/images/portfolio/citibank_eon_6c/citibank_eon_6c_2.jpg",
+      "assets/images/portfolio/citibank_eon_6c/citibank_eon_6c_3.jpg",
+      "assets/images/portfolio/citibank_eon_6c/citibank_eon_6c_4.jpg",
+      "assets/images/portfolio/citibank_eon_6c/citibank_eon_6c_5.jpg",
+      "assets/images/portfolio/citibank_eon_6c/citibank_eon_6c_6.jpg",
+      "assets/images/portfolio/citibank_eon_6c/citibank_eon_6c_7.jpg",
+      "assets/images/portfolio/citibank_eon_6c/citibank_eon_6c_8.jpg"
+    ]
+  },
+  "deutsche-bank-pune": {
+    "id": "deutsche-bank-pune",
+    "name": "Deutsche Bank Pune",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Pune, Maharashtra",
+    "scope": "Technology Hub & Regional Banking Center",
+    "images": [
+      "assets/images/portfolio/deutsche_bank_pune/deutsche_bank_pune_1.jpg",
+      "assets/images/portfolio/deutsche_bank_pune/deutsche_bank_pune_2.jpg",
+      "assets/images/portfolio/deutsche_bank_pune/deutsche_bank_pune_3.jpg",
+      "assets/images/portfolio/deutsche_bank_pune/deutsche_bank_pune_4.jpg",
+      "assets/images/portfolio/deutsche_bank_pune/deutsche_bank_pune_5.jpg",
+      "assets/images/portfolio/deutsche_bank_pune/deutsche_bank_pune_6.jpg",
+      "assets/images/portfolio/deutsche_bank_pune/deutsche_bank_pune_7.jpg",
+      "assets/images/portfolio/deutsche_bank_pune/deutsche_bank_pune_8.jpg"
+    ]
+  },
+  "bnp-paribas-alwarpet": {
+    "id": "bnp-paribas-alwarpet",
+    "name": "BNP Paribas Alwarpet",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Alwarpet, Chennai, Tamil Nadu",
+    "scope": "Turnkey Banking Branch & Regional Executive Offices",
+    "images": [
+      "assets/images/portfolio/bnp_paribas_alwarpet/bnp_paribas_alwarpet_1.jpg",
+      "assets/images/portfolio/bnp_paribas_alwarpet/bnp_paribas_alwarpet_2.jpg",
+      "assets/images/portfolio/bnp_paribas_alwarpet/bnp_paribas_alwarpet_3.jpg",
+      "assets/images/portfolio/bnp_paribas_alwarpet/bnp_paribas_alwarpet_4.jpg",
+      "assets/images/portfolio/bnp_paribas_alwarpet/bnp_paribas_alwarpet_5.jpg",
+      "assets/images/portfolio/bnp_paribas_alwarpet/bnp_paribas_alwarpet_6.jpg",
+      "assets/images/portfolio/bnp_paribas_alwarpet/bnp_paribas_alwarpet_7.jpg",
+      "assets/images/portfolio/bnp_paribas_alwarpet/bnp_paribas_alwarpet_8.jpg"
+    ]
+  },
+  "citibank-dlf-delhi": {
+    "id": "citibank-dlf-delhi",
+    "name": "Citibank DLF Delhi",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "DLF, Delhi NCR",
+    "scope": "Premier Wealth Management & Commercial Banking Branch",
+    "images": [
+      "assets/images/portfolio/citibank_dlf_delhi/citibank_dlf_delhi_1.jpg",
+      "assets/images/portfolio/citibank_dlf_delhi/citibank_dlf_delhi_2.jpg",
+      "assets/images/portfolio/citibank_dlf_delhi/citibank_dlf_delhi_3.jpg",
+      "assets/images/portfolio/citibank_dlf_delhi/citibank_dlf_delhi_4.jpg",
+      "assets/images/portfolio/citibank_dlf_delhi/citibank_dlf_delhi_5.jpg",
+      "assets/images/portfolio/citibank_dlf_delhi/citibank_dlf_delhi_6.jpg",
+      "assets/images/portfolio/citibank_dlf_delhi/citibank_dlf_delhi_7.jpg",
+      "assets/images/portfolio/citibank_dlf_delhi/citibank_dlf_delhi_8.jpg"
+    ]
+  },
+  "bnpp-sp-infocity": {
+    "id": "bnpp-sp-infocity",
+    "name": "BNPP SP Infocity",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "SP Infocity, Chennai, Tamil Nadu",
+    "scope": "Regional Financial Technology Hub & Banking Offices",
+    "images": [
+      "assets/images/portfolio/bnpp_sp_infocity/bnpp_sp_infocity_1.jpg",
+      "assets/images/portfolio/bnpp_sp_infocity/bnpp_sp_infocity_2.jpg",
+      "assets/images/portfolio/bnpp_sp_infocity/bnpp_sp_infocity_3.jpg",
+      "assets/images/portfolio/bnpp_sp_infocity/bnpp_sp_infocity_4.jpg",
+      "assets/images/portfolio/bnpp_sp_infocity/bnpp_sp_infocity_5.jpg",
+      "assets/images/portfolio/bnpp_sp_infocity/bnpp_sp_infocity_6.jpg",
+      "assets/images/portfolio/bnpp_sp_infocity/bnpp_sp_infocity_7.jpg",
+      "assets/images/portfolio/bnpp_sp_infocity/bnpp_sp_infocity_8.jpg"
+    ]
+  },
+  "hdfc-jayanagar-bangalore": {
+    "id": "hdfc-jayanagar-bangalore",
+    "name": "HDFC JAYANAGAR BANGALORE",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Jayanagar, Bangalore, Karnataka",
+    "scope": "Flagship Regional Headquarters & Banking Floors",
+    "images": [
+      "assets/images/portfolio/hdfc_jayanagar_bangalore/hdfc_jayanagar_bangalore_1.jpg",
+      "assets/images/portfolio/hdfc_jayanagar_bangalore/hdfc_jayanagar_bangalore_2.jpg",
+      "assets/images/portfolio/hdfc_jayanagar_bangalore/hdfc_jayanagar_bangalore_3.jpg",
+      "assets/images/portfolio/hdfc_jayanagar_bangalore/hdfc_jayanagar_bangalore_4.jpg",
+      "assets/images/portfolio/hdfc_jayanagar_bangalore/hdfc_jayanagar_bangalore_5.jpg",
+      "assets/images/portfolio/hdfc_jayanagar_bangalore/hdfc_jayanagar_bangalore_6.jpg",
+      "assets/images/portfolio/hdfc_jayanagar_bangalore/hdfc_jayanagar_bangalore_7.jpg",
+      "assets/images/portfolio/hdfc_jayanagar_bangalore/hdfc_jayanagar_bangalore_8.jpg"
+    ]
+  },
+  "hdfc-kolkata": {
+    "id": "hdfc-kolkata",
+    "name": "HDFC Kolkata",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Kolkata, West Bengal",
+    "scope": "Regional Corporate Banking Operations Center",
+    "images": [
+      "assets/images/portfolio/hdfc_kolkata/hdfc_kolkata_1.jpg",
+      "assets/images/portfolio/hdfc_kolkata/hdfc_kolkata_2.jpg"
+    ]
+  },
+  "db-golflinks-villa": {
+    "id": "db-golflinks-villa",
+    "name": "DB Golflinks Villa",
+    "category": "luxury-residences",
+    "category_label": "Luxury Residences",
+    "location": "Golf Links, New Delhi",
+    "scope": "Ultra-Luxury Private Estate & General Contracting",
+    "images": [
+      "assets/images/portfolio/db_golflinks_villa/db_golflinks_villa_1.jpg",
+      "assets/images/portfolio/db_golflinks_villa/db_golflinks_villa_2.jpg",
+      "assets/images/portfolio/db_golflinks_villa/db_golflinks_villa_3.jpg",
+      "assets/images/portfolio/db_golflinks_villa/db_golflinks_villa_4.jpg",
+      "assets/images/portfolio/db_golflinks_villa/db_golflinks_villa_5.jpg",
+      "assets/images/portfolio/db_golflinks_villa/db_golflinks_villa_6.jpg",
+      "assets/images/portfolio/db_golflinks_villa/db_golflinks_villa_7.jpg",
+      "assets/images/portfolio/db_golflinks_villa/db_golflinks_villa_8.jpg"
+    ]
+  },
+  "db-villa-bhopal": {
+    "id": "db-villa-bhopal",
+    "name": "DB VILLA BHOPAL",
+    "category": "luxury-residences",
+    "category_label": "Luxury Residences",
+    "location": "Bhopal, Madhya Pradesh",
+    "scope": "Bespoke Private Mansion Villa & Landscaping",
+    "images": [
+      "assets/images/portfolio/db_villa_bhopal/db_villa_bhopal_2.jpg",
+      "assets/images/portfolio/db_villa_bhopal/db_villa_bhopal_1.jpg",
+      "assets/images/portfolio/db_villa_bhopal/db_villa_bhopal_3.jpg",
+      "assets/images/portfolio/db_villa_bhopal/db_villa_bhopal_4.jpg",
+      "assets/images/portfolio/db_villa_bhopal/db_villa_bhopal_5.jpg",
+      "assets/images/portfolio/db_villa_bhopal/db_villa_bhopal_6.jpg",
+      "assets/images/portfolio/db_villa_bhopal/db_villa_bhopal_7.jpg",
+      "assets/images/portfolio/db_villa_bhopal/db_villa_bhopal_8.jpg"
+    ]
+  },
+  "hdfc-chennai-mogapir": {
+    "id": "hdfc-chennai-mogapir",
+    "name": "HDFC Chennai Mogapir",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Mogappair, Chennai, Tamil Nadu",
+    "scope": "Regional Banking Facility & Retail Branch",
+    "images": [
+      "assets/images/portfolio/hdfc_chennai_mogapir/hdfc_chennai_mogapir_1.jpg",
+      "assets/images/portfolio/hdfc_chennai_mogapir/hdfc_chennai_mogapir_2.jpg"
+    ]
+  },
+  "bnpp-infinity-7b": {
+    "id": "bnpp-infinity-7b",
+    "name": "BNPP Infinity 7B",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Infinity IT Park 7B, Mumbai, Maharashtra",
+    "scope": "Enterprise Banking & Technology Workspace",
+    "images": [
+      "assets/images/portfolio/bnpp_infinity_7b/bnpp_infinity_7b_1.jpg",
+      "assets/images/portfolio/bnpp_infinity_7b/bnpp_infinity_7b_2.jpg",
+      "assets/images/portfolio/bnpp_infinity_7b/bnpp_infinity_7b_3.jpg",
+      "assets/images/portfolio/bnpp_infinity_7b/bnpp_infinity_7b_4.jpg",
+      "assets/images/portfolio/bnpp_infinity_7b/bnpp_infinity_7b_5.jpg",
+      "assets/images/portfolio/bnpp_infinity_7b/bnpp_infinity_7b_6.jpg",
+      "assets/images/portfolio/bnpp_infinity_7b/bnpp_infinity_7b_7.jpg",
+      "assets/images/portfolio/bnpp_infinity_7b/bnpp_infinity_7b_8.jpg"
+    ]
+  },
+  "bnpp-infinity-4a": {
+    "id": "bnpp-infinity-4a",
+    "name": "BNPP Infinity 4A",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Infinity IT Park 4A, Mumbai, Maharashtra",
+    "scope": "Global Financial Corporate Workspace Fit-Out",
+    "images": [
+      "assets/images/portfolio/bnpp_infinity_4a/bnpp_infinity_4a_1.jpg",
+      "assets/images/portfolio/bnpp_infinity_4a/bnpp_infinity_4a_2.jpg",
+      "assets/images/portfolio/bnpp_infinity_4a/bnpp_infinity_4a_3.jpg",
+      "assets/images/portfolio/bnpp_infinity_4a/bnpp_infinity_4a_4.jpg",
+      "assets/images/portfolio/bnpp_infinity_4a/bnpp_infinity_4a_5.jpg",
+      "assets/images/portfolio/bnpp_infinity_4a/bnpp_infinity_4a_6.jpg",
+      "assets/images/portfolio/bnpp_infinity_4a/bnpp_infinity_4a_7.jpg",
+      "assets/images/portfolio/bnpp_infinity_4a/bnpp_infinity_4a_8.jpg"
+    ]
+  },
+  "deutsche-bank-mumbai": {
+    "id": "deutsche-bank-mumbai",
+    "name": "Deutsche Bank Mumbai",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Mumbai, Maharashtra",
+    "scope": "Financial Trading Floor & Corporate Headquarters",
+    "images": [
+      "assets/images/portfolio/deutsche_bank_mumbai/deutsche_bank_mumbai_1.jpg",
+      "assets/images/portfolio/deutsche_bank_mumbai/deutsche_bank_mumbai_2.jpg",
+      "assets/images/portfolio/deutsche_bank_mumbai/deutsche_bank_mumbai_3.jpg",
+      "assets/images/portfolio/deutsche_bank_mumbai/deutsche_bank_mumbai_4.jpg",
+      "assets/images/portfolio/deutsche_bank_mumbai/deutsche_bank_mumbai_5.jpg",
+      "assets/images/portfolio/deutsche_bank_mumbai/deutsche_bank_mumbai_6.jpg",
+      "assets/images/portfolio/deutsche_bank_mumbai/deutsche_bank_mumbai_7.jpg",
+      "assets/images/portfolio/deutsche_bank_mumbai/deutsche_bank_mumbai_8.jpg"
+    ]
+  },
+  "hdfc-midc": {
+    "id": "hdfc-midc",
+    "name": "HDFC MIDC",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "MIDC, Andheri, Mumbai",
+    "scope": "Commercial & Treasury Banking Operations Office",
+    "images": [
+      "assets/images/portfolio/hdfc_midc/hdfc_midc_1.jpg",
+      "assets/images/portfolio/hdfc_midc/hdfc_midc_2.jpg",
+      "assets/images/portfolio/hdfc_midc/hdfc_midc_3.jpg",
+      "assets/images/portfolio/hdfc_midc/hdfc_midc_4.jpg",
+      "assets/images/portfolio/hdfc_midc/hdfc_midc_5.jpg",
+      "assets/images/portfolio/hdfc_midc/hdfc_midc_6.jpg",
+      "assets/images/portfolio/hdfc_midc/hdfc_midc_7.jpg",
+      "assets/images/portfolio/hdfc_midc/hdfc_midc_8.jpg"
+    ]
+  },
+  "citibank-koregaon-park": {
+    "id": "citibank-koregaon-park",
+    "name": "Citibank Koregaon Park",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Koregaon Park, Pune, Maharashtra",
+    "scope": "Turnkey Wealth Center & Executive Offices",
+    "images": [
+      "assets/images/portfolio/citibank_koregaon_park/citibank_koregaon_park_1.jpg",
+      "assets/images/portfolio/citibank_koregaon_park/citibank_koregaon_park_2.jpg",
+      "assets/images/portfolio/citibank_koregaon_park/citibank_koregaon_park_3.jpg",
+      "assets/images/portfolio/citibank_koregaon_park/citibank_koregaon_park_4.jpg",
+      "assets/images/portfolio/citibank_koregaon_park/citibank_koregaon_park_5.jpg",
+      "assets/images/portfolio/citibank_koregaon_park/citibank_koregaon_park_6.jpg",
+      "assets/images/portfolio/citibank_koregaon_park/citibank_koregaon_park_7.jpg",
+      "assets/images/portfolio/citibank_koregaon_park/citibank_koregaon_park_8.jpg"
+    ]
+  },
+  "hdfc-nagpur": {
+    "id": "hdfc-nagpur",
+    "name": "HDFC Nagpur",
+    "category": "corporate-banking",
+    "category_label": "Corporate & Banking",
+    "location": "Nagpur, Maharashtra",
+    "scope": "Regional Commercial Banking Headquarters",
+    "images": [
+      "assets/images/portfolio/hdfc_nagpur/hdfc_nagpur_1.jpg",
+      "assets/images/portfolio/hdfc_nagpur/hdfc_nagpur_2.jpg",
+      "assets/images/portfolio/hdfc_nagpur/hdfc_nagpur_3.jpg",
+      "assets/images/portfolio/hdfc_nagpur/hdfc_nagpur_4.jpg",
+      "assets/images/portfolio/hdfc_nagpur/hdfc_nagpur_5.jpg",
+      "assets/images/portfolio/hdfc_nagpur/hdfc_nagpur_6.jpg",
+      "assets/images/portfolio/hdfc_nagpur/hdfc_nagpur_7.jpg",
+      "assets/images/portfolio/hdfc_nagpur/hdfc_nagpur_8.jpg"
+    ]
+  }
+}
